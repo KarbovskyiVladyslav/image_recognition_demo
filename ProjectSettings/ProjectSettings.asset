@@ -436,7 +436,7 @@ PlayerSettings:
   openGLRequireES31AEP: 0
   openGLRequireES32: 0
   m_TemplateCustomTags:
-    BASE_HREF: image_recognition_demo/Builds/
+    BASE_HREF: image_recognition_demo/Builds
   mobileMTRendering:
     Android: 1
     iPhone: 1
